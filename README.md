@@ -1,4 +1,3 @@
-##new
 
 ## <b>Installation</b>
 
