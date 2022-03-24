@@ -13,9 +13,3 @@ $ pkg install git
 $ git clone https://github.com/Rihab-X/new
 $ cd new
 $ python Tp2.py
-
-
-      🌷USERNAME : NO
-      🌷PASSWORD : NO
-
-💙Thank you For Using My Tools💙
