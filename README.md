@@ -12,4 +12,4 @@ $ pip2 install mechanize
 $ pkg install git
 $ git clone https://github.com/Rihab-X/new
 $ cd new
-$ python Tp2.py
+$ python old.py
